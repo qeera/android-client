@@ -1,0 +1,10 @@
+M:\....Portable\C#\AndroidClient\AndroidClient\obj\Debug\ResolveAssemblyReference.cache
+M:\....Portable\C#\AndroidClient\AndroidClient\obj\Debug\AndroidClient.Form1.resources
+M:\....Portable\C#\AndroidClient\AndroidClient\obj\Debug\AndroidClient.Properties.Resources.resources
+M:\....Portable\C#\AndroidClient\AndroidClient\obj\Debug\AndroidClient.csproj.GenerateResource.Cache
+M:\....Portable\C#\AndroidClient\AndroidClient\bin\Debug\AndroidClient.exe
+M:\....Portable\C#\AndroidClient\AndroidClient\bin\Debug\AndroidClient.pdb
+M:\....Portable\C#\AndroidClient\AndroidClient\obj\Debug\AndroidClient.exe
+M:\....Portable\C#\AndroidClient\AndroidClient\obj\Debug\AndroidClient.pdb
+M:\....Portable\C#\AndroidClient\AndroidClient\bin\Debug\AndroidClient.exe.config
+M:\....Portable\C#\AndroidClient\AndroidClient\obj\Debug\AndroidClient.formSettings.resources

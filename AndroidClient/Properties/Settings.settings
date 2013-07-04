@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AndroidClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="organization" Type="System.String" Scope="User">
+      <Value Profile="(Default)">soft4tec</Value>
+    </Setting>
+    <Setting Name="api_key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">284c36bf0106273b0fd5c084500a60a5</Value>
+    </Setting>
+    <Setting Name="api_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://community.hoomer.de</Value>
+    </Setting>
+    <Setting Name="project" Type="System.String" Scope="User">
+      <Value Profile="(Default)">testproject</Value>
+    </Setting>
+    <Setting Name="export_targetfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">exporttemplate/test.txt</Value>
+    </Setting>
+    <Setting Name="export_templatefile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">exporttemplate/android.tpl</Value>
+    </Setting>
+    <Setting Name="import_file" Type="System.String" Scope="User">
+      <Value Profile="(Default)">exporttemplate/strings.xml</Value>
+    </Setting>
+    <Setting Name="export_targetlanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
